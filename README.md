@@ -14,9 +14,9 @@
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Son-Rodrigues&layout=compact&langs_count=7&theme=dracula" />
 </div>
 <div style = "display: inline_block"> <br>
-  <img align = "center" alt = "Son-Js" height = "70" width = "70" src = "https://img.icons8.com/color/480/000000/javascript--v2.png"/>
-  <img align = "center" alt = "Son-HTML" height = "70" width = "70" src = "https://img.icons8.com/color/480/000000/html-5--v1.png"/>
-  <img align = "center" alt = "Son-CSS" height = "70" width = "70" src = "https://img.icons8.com/color/480/000000/css3.png"/>
+  <img align = "center" alt = "Son-Js" height = "60" width = "60" src = "https://img.icons8.com/color/480/000000/javascript--v2.png"/>
+  <img align = "center" alt = "Son-HTML" height = "60" width = "60" src = "https://img.icons8.com/color/480/000000/html-5--v1.png"/>
+  <img align = "center" alt = "Son-CSS" height = "60" width = "60" src = "https://img.icons8.com/color/480/000000/css3.png"/>
 </div>
 
 ##
