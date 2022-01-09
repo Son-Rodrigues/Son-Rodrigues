@@ -6,7 +6,7 @@
 - 🔭 Atualmente estou procurando uma oportunidade com Desenvolvedor Frontend
 - 🌱 Atualmente estou focado em melhorar meus aprendizados em JavaScript e aprender mas sobre React JS
 - 📫 Contate-me no email: alissonrodriguescds@gmail.com
-- 😄 Pronome: ele
+- 😄 Pronome: ele/dele
 
 <div class="center">
   <a href="https://github.com/Son-Rodrigues"></a>
