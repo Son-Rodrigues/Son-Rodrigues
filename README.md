@@ -4,8 +4,8 @@
 **Son-Rodrigues/Son-Rodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 Atualmente estou procurando uma oportunidade com Desenvolvedor Frontend
-- 🌱 Atualmente estou focado em melhorar meus aprendizados em JavaScript e aprender mas sobre React JS
-- 📫 Contate-me no email: alissonrodriguescds@gmail.com
+- 🌱 Atualmente estou focado em melhorar meus aprendizados em JavaScript e aprender mais sobreact JS
+- 📫 Entre em contato comigo no email: alissonrodriguescds@gmail.com
 - 😄 Pronome: ele/dele
 
 <div class="center">
