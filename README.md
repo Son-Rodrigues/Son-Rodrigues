@@ -11,7 +11,7 @@
 <div class="center">
   <div align = "center">
   <a href="https://github.com/Son-Rodrigues">
-  <img height = "180em" width = "400px" src ="https://github-readme-stats.vercel.app/api?username=Son-Rodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height = "180em" width = "400px" src ="https://github-readme-stats.vercel.app/api?username=Son-Rodrigues&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height = "180em" width = "400px" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Son-Rodrigues&layout=compact&langs_count=7&"/>
 </div>
     
