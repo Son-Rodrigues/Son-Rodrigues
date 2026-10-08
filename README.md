@@ -1,30 +1,117 @@
-### Olá, eu sou Alisson Rodrigues 👋
+# Olá, eu sou o Alisson 👋
 
-<!--
-**Son-Rodrigues/Son-Rodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Gran Faculdade.
 
-- 🔭 Atualmente estou procurando uma oportunidade com Desenvolvedor Frontend
-- 🌱 Atualmente estou focado em melhorar meus aprendizados em JavaScript e aprender mais sobre React JS
-- 📫 Entre em contato comigo no email: alissonrodriguescds@gmail.com
-- 😄 Pronome: ele/dele
+💻 Estudando **Desenvolvimento Web** e **Suporte Técnico**.
 
-<div class="center">
-  <div align = "center">
-  <a href="https://github.com/Son-Rodrigues">
-  <img height = "180em" width = "400px" src ="https://github-readme-stats.vercel.app/api?username=Son-Rodrigues&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height = "180em" width = "400px" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Son-Rodrigues&layout=compact&langs_count=7&"/>
-</div>
-    
-<div style = "display: inline_block"> <br>
-  <img align = "center" alt = "Son-Js" height = "60" width = "60" src = "https://img.icons8.com/color/480/000000/javascript--v2.png"/>
-  <img align = "center" alt = "Son-HTML" height = "60" width = "60" src = "https://img.icons8.com/color/480/000000/html-5--v1.png"/>
-  <img align = "center" alt = "Son-CSS" height = "60" width = "60" src = "https://img.icons8.com/color/480/000000/css3.png"/>
-  <img align = "center" alt = "Son-CSS" height = "60" width = "60" src = "https://img.icons8.com/color/344/sass.png"/>
-</div>
+🚀 Buscando minha primeira oportunidade profissional na área de TI.
 
-##
+---
 
-<div> 
-  <a href = "mailto:alissonrodriguescds@gmail.com"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
-  <a href="https://www.linkedin.com/in/son-rodrigues/" target="_blank"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target =" _ blank "> </a>
-</div>
+## Sobre mim
+
+Sou estudante de ADS e venho desenvolvendo projetos para colocar em prática o que aprendo nos estudos.
+
+Tenho interesse tanto em **desenvolvimento** quanto em **suporte técnico**, e gosto principalmente de aprender na prática, resolver problemas e entender como as tecnologias funcionam.
+
+Atualmente estou focado em evoluir meus conhecimentos e construir um portfólio que represente minha evolução na área.
+
+---
+
+## Desenvolvimento Web
+
+* HTML5
+* CSS3
+* JavaScript
+* Design responsivo
+* Manipulação do DOM
+* Consumo de APIs
+* Interfaces web
+* Git e GitHub
+
+**Estudando:** React, Node.js e Banco de Dados.
+
+---
+
+## Ferramentas
+
+* Git
+* GitHub
+* Visual Studio Code
+* Git Bash
+* Chrome DevTools
+* GitHub Pages
+* HTML/CSS/JS
+
+Também tenho experiência prática com hospedagem e configuração básica de sites.
+
+---
+
+## Suporte e TI
+
+* Windows
+* Montagem e manutenção de computadores
+* Formatação e instalação de sistemas
+* Configuração de computadores
+* Hardware e periféricos
+* Fundamentos de redes
+* Diagnóstico e solução de problemas
+* Suporte ao usuário
+
+---
+
+## Projetos
+
+### 🕯️ Aruanã Natural
+
+Projeto de site desenvolvido para uma marca de produtos artesanais.
+
+**Tecnologias:** HTML, CSS e JavaScript.
+
+O projeto possui catálogo de produtos, design responsivo, interações, formulário de feedback e área administrativa.
+
+🔗 [Ver projeto](https://aruananatural.com.br/)
+
+### 🌐 Outros projetos
+
+Meu GitHub também reúne projetos e exercícios desenvolvidos durante meus estudos, principalmente utilizando HTML, CSS e JavaScript.
+
+Estou constantemente atualizando esses projetos conforme avanço nos meus conhecimentos.
+
+---
+
+## Atualmente estudando
+
+* JavaScript
+* React
+* Node.js
+* Banco de Dados
+* Redes
+* Suporte Técnico
+* Fundamentos de desenvolvimento de sistemas
+
+---
+
+## Objetivo
+
+Busco minha primeira oportunidade em TI, principalmente nas áreas de:
+
+**Desenvolvimento Web • Suporte Técnico • Help Desk • Service Desk**
+
+Quero continuar aprendendo, ganhar experiência profissional e evoluir dentro da área de tecnologia.
+
+---
+
+## Contato
+
+📍 São Lourenço - MG
+
+🐙 [GitHub](https://github.com/Son-Rodrigues)
+
+💼 [LinkedIn](https://www.linkedin.com/in/son-rodrigues/)
+
+🌐 **Portfólio:** em desenvolvimento
+
+---
+
+**Obrigado por visitar meu perfil! 👋**
